@@ -1,30 +1,22 @@
-# [Your Project Title]
+# Top Songs 2024 Spotify Data Analysis
 
-[One-line description of the project]
+A semester-long project analyzing Spotify data to explore whether there is a correlation between 
+TikTok views and Spotify performance.
 
 ## Dataset
-- Source: 
-- Topic: 
-- Size: 
-- Main research question: 
+The dataset was sourced from Kaggle and contains 4,601 rows (uncleaned) and 13 columns. Of these, 
+10 columns were used in the final analysis. Our main research question: **Is there a correlation 
+between TikTok views and Spotify performance?**
 
 ## Repository Structure
-- `data/` — 
-- `assignment-02-dataset/` — 
-- `assignment-03-descriptive-stats/` — 
-- `assignment-04-probability/` — 
-- `assignment-05-inference/` — 
-- `assignment-06-regression/` — 
+- **Assignment 2** — Data selection, variables of interest, source transparency, and project 
+  motivation and goals
+- **Assignment 3** — Descriptive statistics for all variables, frequency tables for categorical 
+  variables, visuals for all variables, and commentary
+- **Assignment 4** — Distribution analysis, probability scenarios, and commentary
+- **Assignment 5** — Hypothesis testing (one-sample test), confidence interval, and commentary
+- **Assignment 6** — Regression model setup, model refinement process, final model, 
+  multicollinearity check, and commentary
 
-## Author
-[Your name] — analysis completed as part of a team project for BAN 6005.
-Step 3: Save, commit, and push
-Save both files (Ctrl+S / Cmd+S)
-Go to Source Control panel
-You'll see README.md and DECISIONS.md listed under Changes
-Add a commit message like Add README and decision log
-Click Commit, then Sync Changes / Push
-
-Once you fill in the actual content (dataset details, your Spotify streams analysis reasoning, etc.), want help polishing the wording of your README after you've drafted it yourself?
-
-
+## Team
+This project was completed by Julia Price, Jordan Riggs, and Arham Anaaf as a team effort.
