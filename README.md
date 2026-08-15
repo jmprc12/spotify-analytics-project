@@ -19,4 +19,4 @@ between TikTok views and Spotify performance?**
   multicollinearity check, and commentary
 
 ## Team
-This project was completed by Julia Price, Jordan Riggs, and Arham Anaaf as a team effort.
+This project was completed by Julia Price, Jordan Riggs, and Arham Anaaf as a team effort. We really enjoyed studying this data, and hope that others find our findings interesting.
